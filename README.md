@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React ToDo管理アプリ
+
+シンプルなToDo管理アプリケーションです。Reactを使用して作成されています。
+
+## 機能
+
+- タスクの追加
+- タスクの完了/未完了の切り替え
+- タスクの削除
+
+## 技術スタック
+
+- React
+- JavaScript
+- HTML/CSS
+
+## インストール方法
+
+1. リポジトリをクローン
+```bash
+git clone https://github.com/your-username/react-todo-app.git
+```
+
+2. 依存パッケージのインストール
+```bash
+cd react-todo-app
+npm install
+```
+
+3. 開発サーバーの起動
+```bash
+npm start
+```
+
+## ライセンス
+
+MIT 
+>>>>>>> 2755fb4c33e175bf6613e18e5f278f7887e2dc8b
